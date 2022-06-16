@@ -25,7 +25,7 @@ for(let i=1;i <= 100;i++){
 
     let singleBox = document.createElement('div');
     singleBox.innerHTML = boxContent;
-    singleBox.classList.add('col-2','box',classBg);
+    singleBox.classList.add('box',classBg);
     boxContainer.append(singleBox);
 
 }

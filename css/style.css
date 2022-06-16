@@ -2,7 +2,9 @@ body{
     background-color: blanchedalmond;
 }
 
-.col-2.box{
+.box{
+    height: 150px;
+    width: 150px;
     font-size: 2rem;
     text-align: center;
     border-radius: 10px;
@@ -15,13 +17,16 @@ body{
 }
 
 .fizz-box{
-    background-color: lightcoral;
+    background-color: #f08080;
+    border: 10px solid #eb6c6c;
 }
 
 .buzz-box{
-    background-color: lightgreen;
+    background-color: #90ee90;
+    border: 10px solid #6ae06a;
 }
 
 .fizz-buzz-box{
-    background-color: coral;
+    background-color: #ff7f50;
+    border: 10px solid #f86530;
 }
