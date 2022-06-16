@@ -3,6 +3,23 @@ body{
 }
 
 .col-2.box{
-    height: 80px;
-    background-color: white;
+    font-size: 2rem;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.classic-bg{
+    background-color: lightseagreen;
+}
+
+.fizz-box{
+    background-color: lightcoral;
+}
+
+.buzz-box{
+    background-color: lightgreen;
+}
+
+.fizz-buzz-box{
+    background-color: coral;
 }
